@@ -1,6 +1,6 @@
 
 def retorna_mais1_menos1(numero):
-    print("Antecessor: {numero-1}, Sucessor: {numero+1}")
+    print(f"Antecessor: {numero-1}, Sucessor: {numero+1}")
 
 def retorna_idade_2032(ano_nascimento):
     idade = 2032 - ano_nascimento
