@@ -49,11 +49,6 @@ def retorna_latas_e_preco(altura, raio):
     print(f'Quantidade de latas: {quantidade_latas}')
     print(f'Custo total: {custo_total}')
 
-def meunome(nome, sobrenome):
-    print(nome)
-    print(sobrenome)
-
-
 retorna_mais1_menos1(10)
 retorna_idade_2032(2022)
 retorna_salario_minimo(2424)
